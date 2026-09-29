@@ -32,6 +32,13 @@ $host='localhost';
 $user='hcoyym1o_storeto';
 $db='hcoyym1o_storetogo';
 $password='oJS#5$88!gr}';
+// Use Laragon's imported database when running on this local machine.
+if (in_array($_SERVER['SERVER_ADDR'] ?? '', ['127.0.0.1', '::1'], true)) {
+    $host = '127.0.0.1';
+    $user = getenv('STORETOGO_DB_USER') ?: 'root';
+    $password = getenv('STORETOGO_DB_PASSWORD') ?: '';
+    $db = getenv('STORETOGO_DB_NAME') ?: 'storetogo';
+}
 $con = mysqli_connect($host,$user,$password,$db) or die('error');
 //mysqli_select_db($db, $con);
 
