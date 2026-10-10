@@ -71,9 +71,12 @@ $row = $result->fetch_assoc();
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link rel="canonical" href="" />
+  <link rel="canonical" href="http://storetogo.ae/blog.php" />
 
-  
+  <!-- Cross-Domain Localized SEO Tags for Store To Go -->
+<link rel="alternate" href="https://www.storetogo.ae/" hreflang="en-ae" />
+<link rel="alternate" href="https://www.storetogoo.com/sa/" hreflang="en-sa" />
+<link rel="alternate" href="https://www.storetogoo.com/" hreflang="x-default" />
 
   <meta property="og:title" content="6 Things You Need To Know About Van Racking" />
 

@@ -28,9 +28,12 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<link rel="canonical" href="" />
+	<link rel="canonical" href="http://storetogo.ae/mobile-workplace-workmo.php" />
 
-	
+	<!-- Cross-Domain Localized SEO Tags for Store To Go -->
+<link rel="alternate" href="https://www.storetogo.ae/" hreflang="en-ae" />
+<link rel="alternate" href="https://www.storetogoo.com/sa/" hreflang="en-sa" />
+<link rel="alternate" href="https://www.storetogoo.com/" hreflang="x-default" />
 
 
 

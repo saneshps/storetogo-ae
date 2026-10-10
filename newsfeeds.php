@@ -39,12 +39,7 @@
 <?php 
 
 include 'config.php';
-$sql = "SELECT news.*, news.id AS newsid, news_image.file
-        FROM news
-        JOIN news_image ON news_image.id = (
-            SELECT MIN(image.id) FROM news_image AS image WHERE image.nid = news.id
-        )
-        ORDER BY news.tstamp DESC LIMIT 6";
+$sql ="select  *, news.id as newsid from news join news_image ON news.id=news_image.nid group by news.id ORDER BY news.tstamp desc limit 6";
 $result = mysqli_query($con,$sql);
 
 $i=0;
@@ -223,7 +218,7 @@ $i=0;
       <img src="images/Evelyn-Byju.webp" style="width: 45%;">
     </div>
     <div class="name">
-      Evelyn Byju
+    Evelyn Byju
     </div>
     <div class="description">
       Sales Coordinator<br>

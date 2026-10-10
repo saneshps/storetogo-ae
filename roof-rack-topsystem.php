@@ -9,8 +9,11 @@
 	<meta charset="utf-8">
 	<meta name="keywords" content="vehicle roof racking, roof rack systems, roof rack system uae, roof rack systems dubai, vehicle roof racking UAE, vehicle roof racking Dubai, Flexible Roof Rack, Van roof racks ">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="canonical" href="" />
-	
+	<link rel="canonical" href="http://storetogo.ae/roof-rack-topsystem.php" />
+	<!-- Cross-Domain Localized SEO Tags for Store To Go -->
+<link rel="alternate" href="https://www.storetogo.ae/" hreflang="en-ae" />
+<link rel="alternate" href="https://www.storetogoo.com/sa/" hreflang="en-sa" />
+<link rel="alternate" href="https://www.storetogoo.com/" hreflang="x-default" />
 	<!--***************************************-->
     <script src="js/bootstrap.min.js" ></script>
     <!--***************************************-->

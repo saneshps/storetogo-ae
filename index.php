@@ -10,7 +10,10 @@
   <meta name="keywords" content="Van Conversion in UAE, Mobile service van, Mobile Service Van Manufactures, Mobile Service Van Manufactures in UAE ">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="canonical" href="https://storetogo.ae" />
-
+<!-- Cross-Domain Localized SEO Tags for Store To Go -->
+<link rel="alternate" href="https://www.storetogo.ae/" hreflang="en-ae" />
+<link rel="alternate" href="https://www.storetogoo.com/sa/" hreflang="en-sa" />
+<link rel="alternate" href="https://www.storetogoo.com/" hreflang="x-default" />
   <!--***************************************-->
   <script src="js/bootstrap.min.js"></script>
   <!--***************************************-->

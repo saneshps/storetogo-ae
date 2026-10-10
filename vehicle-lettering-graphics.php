@@ -13,7 +13,7 @@
     <meta charset="utf-8">
     <meta name="keywords" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="canonical" href="" /> <!--***************************************--><!-- FONT -->
+    <link rel="canonical" href="http://storetogo.ae/vehicle-lettering-graphics.php" /> <!--***************************************--><!-- FONT -->
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic" />
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Montserrat:400,700" />
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700">
@@ -27,6 +27,11 @@
     <link rel="stylesheet" href="css/home.css">
     <link rel="stylesheet" href="css/testim.css">
     <link rel="stylesheet" href="css/product.css"><!--***************************************-->
+
+    <!-- Cross-Domain Localized SEO Tags for Store To Go -->
+<link rel="alternate" href="https://www.storetogo.ae/" hreflang="en-ae" />
+<link rel="alternate" href="https://www.storetogoo.com/sa/" hreflang="en-sa" />
+<link rel="alternate" href="https://www.storetogoo.com/" hreflang="x-default" />
 </head>
 
 <body><?php $page = 'product';
